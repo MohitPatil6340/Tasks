@@ -1,4 +1,10 @@
-Q11.
+Q11.create VPC A and B 
+VPC A having public and private subnet 
+vpc B content 4 subnet(public)
+vpc peering A-B
+Create an EC2 Instance in default VPC (public) 
+Configure web server in ec2 instance 
+Create snapshot from ec2 instance
 <img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/acc96be7-5d3d-4427-b4d3-44dcad5a0c2c" />
 <img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/712d13a2-c20a-4610-91bd-341f0be434dd" />
 <img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/e658c290-cb4d-40a5-9a61-e3debcf5da7b" />
@@ -11,7 +17,9 @@ Q11.
 <img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/5f8b8438-d2f8-4f81-968d-b5539f3538b7" />
 <img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/d3597d2c-6e9e-415e-b8e0-66212a30b272" />
 
-Q12.
+Q12.create 3 vpc having public and private subnet 
+create vpc peering of A-B , B-C , C-A 
+create EC2 instance and configure a web server
 <img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/32613380-bfc9-4138-983f-bb1ee85020f8" />
 <img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/4ea51bb5-29fd-479e-80a0-2eb0d12140f5" />
 <img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/8b9d97fe-a914-4229-9aee-96d97c44415a" />
