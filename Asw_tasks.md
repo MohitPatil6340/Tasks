@@ -1,4 +1,5 @@
 Q11.create VPC A and B 
+
 VPC A having public and private subnet 
 vpc B content 4 subnet(public)
 vpc peering A-B
